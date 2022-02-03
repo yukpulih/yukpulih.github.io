@@ -1,3 +1,3 @@
-# tridenda.github.io
+# Yuk Pulih Indonesia
 
-This is my portfolio web.
+This project is a static, starter website Yuk Pulih Indonesia for introducing who we are and what we are working on.
